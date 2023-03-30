@@ -10,7 +10,7 @@ describe GildedRose do
   # TODO: implement conjured feature
   let(:conjured) { false }
 
-  subject { GildedRose.new(items) }
+  subject { described_class.new(items) }
 
   describe "#update_quality" do
     context "when given a generic item" do
