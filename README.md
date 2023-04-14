@@ -22,7 +22,7 @@ To run the tests:
 rspec
 ```
 
-With a fresh clone of this repo, you should see two failing tests which represent the requirement changes described in the original kata.
+With a fresh clone of this repo, **you should see two failing tests** which represent the requirement changes described in the original kata (see "New Feature" below).
 
 Below, you will find the original requirements with subheadings I added for clarity.
 
